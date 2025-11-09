@@ -1,0 +1,131 @@
+# -----------------------------
+# ✅ HOME ASSISTANT PRINCIPAL
+# -----------------------------
+homeassistant.local
+192.168.100.110
+hassio.local
+supervisor.local
+hass.io
+.local.hass.io
+.local.homeassistant
+my.home-assistant.io
+www.home-assistant.io
+api.home-assistant.io
+updates.home-assistant.io
+auth.home-assistant.io
+websocket.home-assistant.io
+rc.home-assistant.io
+analytics.home-assistant.io
+dev.home-assistant.io
+version.home-assistant.io
+www.hass.io
+supervisor.hass.io
+cloud.hass.io
+
+# -----------------------------
+# ☁️ ACESSO REMOTO / Nabu Casa
+# -----------------------------
+remote.nabucasa.com
+hooks.nabucasa.com
+cloud.nabucasa.com
+account.nabucasa.com
+webhooks.nabucasa.com
+voice.nabucasa.com
+
+# -----------------------------
+# 🧩 ADD-ONS E INTEGRAÇÕES
+# -----------------------------
+# MQTT Broker
+core-mosquitto
+core_mosquitto
+mqtt.homeassistant.local
+mqtt://192.168.100.110
+mqtt://homeassistant.local
+broker.hivemq.com
+test.mosquitto.org
+
+# Hoymiles DTU Solar
+global.hoymiles.com
+hoymiles.com
+www.hoymiles.com
+cloud.hoymiles.com
+api.hoymiles.com
+cdn.hoymiles.com
+static.hoymiles.com
+dtu.hoymiles.com
+mqtt.hoymiles.com
+app.hoymiles.com
+support.hoymiles.com
+
+# Google Drive Backup
+backup.nabucasa.com
+www.googleapis.com
+accounts.google.com
+oauth2.googleapis.com
+apis.google.com
+drive.google.com
+storage.googleapis.com
+clients2.google.com
+clients4.google.com
+
+# SSH / Samba / Configurator
+core_ssh
+core_samba
+core_configurator
+core_cec_scan
+core_samba.local
+samba.homeassistant.local
+ssh.homeassistant.local
+
+# File Editor / Add-on Store / Atualizações
+github.com
+api.github.com
+raw.githubusercontent.com
+objects.githubusercontent.com
+avatars.githubusercontent.com
+usercontent.com
+docker.io
+registry-1.docker.io
+auth.docker.io
+hub.docker.com
+production.cloudflare.docker.com
+
+# Zerotier / Conexão remota
+zerotier.com
+my.zerotier.com
+api.zerotier.com
+download.zerotier.com
+
+# Outros Add-ons Comuns
+music_assistant.homeassistant.local
+cebe7a76_hassio_google_drive_backup.local
+core_samba.local
+core_configurator.local
+core_mosquitto.local
+core_ssh.local
+a0d7b954_zerotier.local
+a0d7b954_nodered.local
+node-red.homeassistant.local
+zigbee2mqtt.homeassistant.local
+
+# -----------------------------
+# ⚙️ SUPORTE E DEPENDÊNCIAS
+# -----------------------------
+docker.com
+cloudflare.com
+cdnjs.cloudflare.com
+fonts.googleapis.com
+fonts.gstatic.com
+graph.microsoft.com
+microsoft.com
+bing.com
+amazonaws.com
+s3.amazonaws.com
+eu-west-1.amazonaws.com
+time.google.com
+pool.ntp.org
+ntp.br
+
+# -----------------------------
+# ✅ FIM DA LISTA DE PERMISSÕES
+# -----------------------------
