@@ -125,8 +125,13 @@ eu-west-1.amazonaws.com
 time.google.com
 pool.ntp.org
 ntp.br
-
-
+homeassistant.local
+192.168.100.110
+hassio.local
+supervisor.local
+@@||homeassistant.local^
+@@||192.168.100.110^
+@@||hassio.local^
 homeassistant.local
 192.168.100.110
 hassio.local
